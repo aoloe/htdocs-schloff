@@ -1,0 +1,1 @@
+/home/ale/docs/src/GetSimple/index.php
