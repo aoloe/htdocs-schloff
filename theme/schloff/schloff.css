@@ -38,6 +38,13 @@ body {
 	top: 80px; 
 	left: 30px;
 }
+/*
+#logo_verein {
+	position:absolute; 
+	top: 40px; 
+	left: 30px;
+}
+*/
 #navigation {
 	padding-top: 10px;
 }
@@ -47,7 +54,7 @@ body {
 }
 #navigation li {
 	display:inline;
-	padding-right: 35px;
+	padding-right: 30px;
 	font-size: 100%;
 }
 #navigation li a, 

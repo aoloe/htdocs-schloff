@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item><pubDate>Mon, 19 May 2014 19:25:10 +0200</pubDate><title><![CDATA[Der Kontakt]]></title><titlelong><![CDATA[]]></titlelong><summary><![CDATA[]]></summary><url><![CDATA[kontakt]]></url><author><![CDATA[ale]]></author><template><![CDATA[template.php]]></template><parent><![CDATA[]]></parent><menu><![CDATA[Der Kontakt]]></menu><menuStatus><![CDATA[Y]]></menuStatus><menuOrder><![CDATA[6]]></menuOrder><private><![CDATA[]]></private><meta><![CDATA[]]></meta><metad><![CDATA[]]></metad><metarobots><![CDATA[0]]></metarobots><content><![CDATA[&lt;h1&gt;Kontakt&lt;/h1&gt;
+
+&lt;h2&gt;Schlofftheater&lt;/h2&gt;
+
+&lt;p&gt;Beatrice Mock&lt;/p&gt;
+
+&lt;p&gt;Weberstrasse 5&lt;/p&gt;
+
+&lt;p&gt;CH - 9400 Rorschach&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:beatrice.mock@schlofftheater.ch&quot;&gt;beatrice.mock@schlofftheater.ch&lt;/a&gt;&lt;/p&gt;
+
+&lt;p style=&quot;margin-top: 16px;&quot;&gt;+41 (0)71 841 45 40&lt;/p&gt;
+&lt;!-- Facebook Badge START --&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/beatrice.mock.7&quot; style=&quot;font-family: &amp;quot;lucida 
+grande&amp;quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; 
+font-variant: normal; font-style: normal; font-weight: normal; color: 
+#3B5998; text-decoration: none;&quot; target=&quot;_TOP&quot; title=&quot;Beatrice Mock&quot;&gt;Beatrice Mock&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;https://www.facebook.com/beatrice.mock.7&quot; target=&quot;_TOP&quot; title=&quot;Beatrice Mock&quot;&gt;&lt;img src=&quot;https://badge.facebook.com/badge/100000238029801.3041.1123036275.png&quot; style=&quot;border: 0px;&quot; /&gt;&lt;/a&gt;&lt;!-- Facebook Badge END --&gt;&lt;/p&gt;
+
+&lt;form accept-charset=&quot;UTF-8&quot; action=&quot;&quot; id=&quot;kontakt_form&quot; method=&quot;post&quot; style=&quot;margin-top:20px;&quot;&gt;
+&lt;p&gt;&lt;label for=&quot;name&quot;&gt;Vorname und Name&lt;/label&gt;&lt;br /&gt;
+&lt;input id=&quot;name&quot; name=&quot;name&quot; type=&quot;text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;label&gt;Adresse&lt;/label&gt;&lt;br /&gt;
+&lt;textarea cols=&quot;50&quot; id=&quot;adresse&quot; name=&quot;adresse&quot; rows=&quot;5&quot;&gt;&lt;/textarea&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;label for=&quot;email&quot;&gt;Telefon&lt;/label&gt;&lt;br /&gt;
+&lt;input id=&quot;telefon&quot; name=&quot;telefon&quot; type=&quot;text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;label for=&quot;email&quot;&gt;Email&lt;/label&gt;&lt;br /&gt;
+&lt;input id=&quot;email&quot; name=&quot;email&quot; type=&quot;text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;label for=&quot;email&quot;&gt;Mitgliedschaft&lt;/label&gt;&lt;br /&gt;
+&lt;input id=&quot;member&quot; name=&quot;member&quot; type=&quot;checkbox&quot; /&gt; Ich möchte Mitglied vom Verein Schlofftheather werden&lt;/p&gt;
+
+&lt;p&gt;&lt;label&gt;Mitteilung&lt;/label&gt;&lt;br /&gt;
+&lt;textarea cols=&quot;50&quot; id=&quot;mitteilung&quot; name=&quot;mitteilung&quot; rows=&quot;5&quot;&gt;&lt;/textarea&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;input name=&quot;schicken&quot; type=&quot;submit&quot; value=&quot;schicken&quot; /&gt;&lt;/p&gt;
+&lt;/form&gt;
+]]></content></item>
