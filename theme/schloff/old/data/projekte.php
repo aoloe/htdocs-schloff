@@ -13,6 +13,85 @@ $project = array(
             ),
     ),
     */
+    '20150501' => array (
+        'icon' => '20150501_stell_dir_vor.jpg',
+        'date' =>  '1./8.5.2015',
+        'title' => '*"Stell\' dir vor du stellst dich vor" Vorstellungsgespräche-Workshops*',
+        'description' => 'Theaterpädagogische Workshops mit Vorstellungs-Gespräch-Training. Konzept und Durchführung im Schulhaus Burghalde.',
+        'place' => 'Realschule Burghalde, Rorschach SG',
+        'link' =>
+            array (
+                '<a href="http://www.burghaldenschulhaus.ch/">Schulhaus Burghalde, Rorschach</a>',
+            ),
+    ),
+    '20141114' => array (
+        'icon' => '20141114_zukunft_szenarien.jpg',
+        'date' =>  '14.11.2014',
+        'title' => '*«Zukunft-Szenarien» Theaterworkshop mit JungbürgerInnen*',
+        'description' => 'Erarbeitung von Szenen zum Thema Zukunft anlässlich der JungbürgerInnen-Feier 2014der Gemeinde Uzwil. Projektkoordination und Durchführung in Zusammenarbeit mit Andrea Richle-Özütürk, Charlotte Mäder und Cornelia Buder. Im Auftrag der Gemeinde Uzwil.',
+        'place' => 'Gemeindesaal Uzwil',
+        'link' =>
+            array (
+                '<a href="http://www.uzwil.ch/uzwil/">Gemeinde Uzwil</a>',
+            ),
+    ),
+    '20140929' => array (
+        'icon' => '20140929_stoffwechsel.jpg',
+        'date' =>  '29.9. -- 3.10.2014',
+        'title' => '*«StoffWechsel» Theater- und Tanzprojekt für bewegungs- und spielfreudige Kinder [V]*',
+        'description' => 'Menschen brauchen Stoff: Kleider, Nahrungsmittel und Geschichten sind lebenswichtig! Was passiert, wenn du dich in andere Stoffe hüllst? Und was ist eine Stoffwechsel-Störung? Eine Geschichte mit Theater und Tanz entsteht. Am Ende der Woche ist Showtime für alle Interessierten und Fans. Konzept und Leitung zusammen mit Daniela Schläpfer im Rahmen des Raiffeisen Ferienspass am See.<br />Aufführungen: Freitag, 3. Oktober, 16:00 und 19:00',
+        'place' => 'Kulturraum Kornhaus Parterre Nord, Rorschach',
+        'link' =>
+            array (
+                '<a href="http://www.ferienspassamsee.ch/">Raiffeisen Ferienspass am See</a>',
+                '<a href="http://www.rorschach.ch/stadt/geschichte-in-kuerze">Kornhaus Rorschach</a>',
+            ),
+    ),
+    '20140829' => array (
+        'icon' => '20140829_spiel_mit.jpg',
+        'date' =>  '29.8./12.9./19.9.2014',
+        'title' => '*"Spiel mit" Spielabende für Primarschulkinder*',
+        'description' => 'Theaterpädagogische Mitarbeit zusammen mit Veronika Bayer, Bernadette Mock, Nicole Bruderer und Freiwilligenteam der Offenen Arbeit mit Kindern St. Gallen',
+        'place' => 'Schulhäuser Buchwald, Halden und St. Leonhard, St. Gallen',
+        'link' =>
+            array (
+                '<a href="http:/www.stadt.sg.ch/home/gesellschaft-sicherheit/familie-kinder/familienpolitik/offene-arbeit-kinder.html">Offene Arbeit mit Kindern Stadt St. Gallen </a>',
+            ),
+    ),
+    '20140808' => array (
+        'icon' => '20140808_strassentheater.jpg',
+        'date' =>  '8.8.2014',
+        'title' => '*"Strassentheater" Theaterworkshop am Quartierfest*',
+        'description' => 'Theaterworkshop für FestbesucherInnen zur Belebung des jährlichen Sommerfestes im Neuquartier Rorschach. In Zusammenarbeit mit Adelina Filli vom Quartierverein Neuquartier Rorschach.',
+        'place' => 'Quartierverein «Lebendiges Neuquartier»',
+        'link' =>
+            array (
+                '<a href="http://www.neuquartier-rorschach.ch/">Quartierverein «Lebendiges Neuquartier»</a>',
+            ),
+    ),
+    '20140804' => array (
+        'icon' => '20140804_bobine.jpg',
+        'date' =>  '4./8.8.2014',
+        'title' => '*"Bobine die Statplanerin" Atlantis-Kinderwoche in St. Gallen*',
+        'description' => 'Theaterauftritt als Bobine zur Eröffnung und zum Abschluss der Atlantis-Kinderwoche. In Zusammenarbeit mit Matthias Roth und Nathalie Liptai von der Offenen Arbeit mit Kindern St. Gallen.',
+        'place' => 'Offene Arbeit mit Kindern, St. Gallen',
+        'link' =>
+            array (
+                '<a href="http://www.stadt.sg.ch/home/schule-bildung/ferienplan-ferienangebote/offene-arbeit-kinder.html">Offene Arbeit mit Kindern, St. Gallen</a>',
+            ),
+    ),
+    '20140628' => array (
+        'icon' => '20140628_gotika.jpg',
+        'date' =>  '28.6.2014',
+        'title' => '*"Gotika" Performance an der Modeschule-Diplomfeier*',
+        'description' => 'Performance anlässlich des Sommer-Abschlusses der Modeschule Barbara Wegelin. In Zusammenarbeit mit Barbara Wegelin und Lea Hew.',
+        'place' => 'Pfalzkeller, St. Gallen',
+        'link' =>
+            array (
+                '<a href="http://www.stadt.sg.ch/home/freizeit-tourismus/kultur-unterhaltung/veranstaltungsorte/pfalzkeller.html">Pfalzkeller, St. Gallen</a>',
+                '<a href="http://www.modeschule.ch/">Modeschule Barbara Wegelin St. Gallen</a>',
+            ),
+    ),
     '20140415' => array (
         'icon' => '20140415_webfenster.jpg',
         'date' =>  '3.4. - 1.7.2014',
@@ -24,6 +103,9 @@ $project = array(
                 '<a href="http://www.rorschach.ch/stadt/projet-urbain">Quartierprojekt Projet urbain Rorschach</a>',
                 '<a href="http://www.integration.sg.ch/">Kompetenzzentrum Integration und Gleichstellung St.Gallen</a>',
                 '<a href="'.get_uploads_url().'projekte/pdf/20140307_kinder_notvorrat.pdf">Flyer</a>',
+                '<a href="'.get_uploads_url().'projekte/pdf/20140530_engagement.pdf">«Das Engagement beeindruckt mich»</a> (Bodensee-Nachrichten, 30.5.2014)',
+                '<a href="'.get_uploads_url().'projekte/pdf/20140625_ratte_rettet_kornhaus.pdf">«Ratte rettet Kornhaus»</a> (St. Galler-Tagblatt, 27.6.2014)',
+                '<a href="'.get_uploads_url().'projekte/pdf/20140627_ratte_rettet_kornhaus.pdf">«Ratte rettet Kornhaus»</a> (Bodensee-Nachrichten, 27.6.2014)',
             ),
     ),
     '20140312' => array (
