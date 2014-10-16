@@ -24,6 +24,40 @@ $project = array(
                 '<a href="http://www.burghaldenschulhaus.ch/">Schulhaus Burghalde, Rorschach</a>',
             ),
     ),
+    '20150327' => array (
+        'icon' => '20150327_netz.jpg',
+        'date' =>  '27.3.2015',
+        'title' => '«Netz» Schultheatertage Ostschweiz 2015',
+        'description' => 'Wer spielt, schaut zu – wer zuschaut, spielt: 24 Schulklassen aus AR, SG, TG treffen sich erstmals zum Schultheatertreffen Ostschweiz.  Theaterpädagogische Begleitung einer Lehrerin & Schulklasse in Zusammenarbeit mit der «Arbeitsgruppe Schultheatertage Ost».',
+        'place' => 'Öffentlicher Schlussanlass am 27.3.2015, 18.00 Uhr, Lokremise St. Gallen',
+        'link' =>
+            array (
+                '<a href="http://www.kklick.ch/sg/angebote/show/1-schultheatertage-ostschweiz-2015-241/">Weitere Informationen</a>',
+                '<a href="http://www.kklick.ch/fileadmin/kundendaten/angebote/anbieterangebote/sg/schultheatertage_ostschweiz/140625_KKLICK_Details_Schultheatertage_Ostschweiz_2015_01.pdf">Flyer Schultheatertage Ost (pdf)</a>',
+            ),
+    ),
+    '20150221' => array (
+        'icon' => '20150221_welt.jpg',
+        'date' =>  '21.2.2015',
+        'title' => '«Welt in Rorschach» Theaterszenen zum multikulturellen Zusammenleben',
+        'description' => 'Erarbeitung und Inszenierung von 3 Theaterszenen mit RorschacherInnen aus aller Welt. Das Theater wird anlässlich eines Migrations-Anlasses am 21.2.2015 in Rorschach aufgeführt. In Zusammenarbeit mit dem Fest-OK.',
+        'place' => 'Rorschach',
+        'link' =>
+            array (
+            ),
+    ),
+    '20150203' => array (
+        'icon' => '20150203_studienwoche.jpg',
+        'date' =>  '3.-6. Februar 2015',
+        'title' => '*"Gott bewegt" Studienwoche für RPI-Studierende der Uni Luzern*',
+        'description' => 'Die Dynamik biblischer Gottesvorstellungen. Theaterpädagogische Zusammenarbeit mit Dr. theol. Veronika Bachmann, Dozentin für den Fachbereich Bibelwissenschaften am Religionspädagogischen Institut RPI der Theologischen Fakultät der Universität Luzern.',
+        'place' => '',
+        'link' =>
+            array (
+                '<a href="'.get_uploads_url().'20150203_gottbewegt.pdf">Flyer Studienwoche (pdf)</a>',
+                '<a href="https://www.unilu.ch/fakultaeten/tf/institute/religionspaedagogisches-institut-rpi/">Religionspädagogisches Institut RPI Luzern</a>',
+            ),
+    ),
     '20141114' => array (
         'icon' => '20141114_zukunft_szenarien.jpg',
         'date' =>  '14.11.2014',
@@ -45,6 +79,29 @@ $project = array(
             array (
                 '<a href="http://www.ferienspassamsee.ch/">Raiffeisen Ferienspass am See</a>',
                 '<a href="http://www.rorschach.ch/stadt/geschichte-in-kuerze">Kornhaus Rorschach</a>',
+            ),
+    ),
+    '20140917' => array (
+        'icon' => '20140917_ball.jpg',
+        'date' =>  '17.9.2014',
+        'title' => '*"Der Ball..." Theater-Workshop zum Kurzfilm für Oberstufen-SchülerInnen*',
+        'description' => 'Kreativatelier zur Auseinandersetzung mit dem Filmthema. Konzept und Durchführung in Zusammenarbeit mit Oliver Sittel von der Regionalen Katholischen Jugendseelsorge Winterthur.',
+        'place' => 'Pfarreizentrum St. Laurentius, Winterthur',
+        'link' =>
+            array (
+                '<a href="http://www.stlaurentius.ch/st-laurentius/herzlich-willkommen/54">Pfarreizentrum St. Laurentius, Winterthur</a>',
+                '<a href="http://www.kath-winterthur.ch/kirchgemeinde/regionale-jugendseelsorge/49">Regionale Katholische Jugendseelsorge Winterthur</a>',
+            ),
+    ),
+    '20140915' => array (
+        'icon' => '20140915_praktikum.jpg',
+        'date' =>  '15. – 26.9.2014',
+        'title' => '«Praktikum Theaterpädagogik»',
+        'description' => 'Begleitung einer Praktikantin der Fachmittelschule St. Gallen, Organisation von Hospitations- und Praktikumseinsätzen im Arbeitsgebiet Theaterpädagogik. In Zusammenarbeit mit Angélique Anderegg, Eggersriet.',
+        'place' => 'Fachmittelschule FMS, St. Gallen',
+        'link' =>
+            array (
+                '<a href="http://www.ksb-sg.ch/de/fms/informationen.shtml">Fachmittelschule FMS, St. Gallen</a>',
             ),
     ),
     '20140829' => array (
