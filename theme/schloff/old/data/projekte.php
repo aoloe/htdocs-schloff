@@ -13,6 +13,52 @@ $project = array(
             ),
     ),
     */
+    '20150629' => array (
+        'icon' => '20150629_fhsg.jpg',
+        'date' =>  '29.6. – 2.7.2015',
+        'title' => '"Theater und Bewegung in der Kinder- und Jugendarbeit" Wahlpflichtmodul für Studierende der Sozialen Arbeit',
+        'description' => 'Konzept und Durchführung in Zusammenarbeit mit Urs Urech und Fachleuten aus der Sozialen Praxis.',
+        'place' => 'FHSG Fachhochschule, Rosenbergstrasse 59, St. Gallen SG',
+        'link' =>
+            array (
+                '<a href="http://www.fhsg.ch/fhs.nsf/de/soziale-arbeit-auf-einen-blick">FHSG Fachhochschule für Soziale Arbeit, St. Gallen</a>',
+                '<a href="http://www.urs-ure.ch/">Website Urs Urech, Soziokulturelle Animation</a>',
+            ),
+    ),
+    '20150529' => array (
+        'icon' => '20150529_gretel.jpg',
+        'date' =>  '29.5. / 30.5. / 5.6. / 6.6.2015',
+        'title' => '«Gretel, Zita und die Pfahlbauer» Märlitheater meets Museum',
+        'description' => 'Das Projekt „Gretel, Zita und die Pfahlbauern,“ lädt Erwachsene und Kinder *ab sieben Jahren* zu einer Theatertour durch das Museum im Kornhaus ein. Spiel zusammen mit anderen unter der Leitung des Märlitheater Rorschach in Zusammenarbeit mit dem Museum im Kornhaus Rorschach Mik. Tickets: Ab 4. Mai 2015 auf der Website des Märlitheater Rorschach.',
+        'place' => 'Hotel Mozart Rorschach / Museum im Kornhaus Rorschach SG',
+        'link' =>
+            array (
+                '<a href="http://maerlitheater-rorschach.ch/">Märlitheater Rorschach</a>',
+                '<a href="http://www.museum-rorschach.ch/">Mik Museum im Kornhaus</a>',
+            ),
+    ),
+    '20150501b' => array (
+        'icon' => '20150501_huhuu.jpg',
+        'date' =>  '1.5. / 8.5. / 4.9.2015',
+        'title' => '"Huhuuuuuu…." Spielabend für Primarschulkinder zum Thema Gespenster',
+        'description' => 'Theaterpädagogische Mitarbeit zusammen mit Veronika Bayer, Bernadette Mock und Freiwilligenteam von der Offenen Arbeit mit Kindern.',
+        'place' => 'Schulhäuser Buchwald (1.5.), Leonhard (8.5.), Halden (4.9.), St. Gallen',
+        'link' =>
+            array (
+                '<a href="http://www.stadt.sg.ch/home/gesellschaft-sicherheit/familie-kinder/familienpolitik/offene-arbeit-kinder.html">OAK Offene Arbeit mit Kindern Stadt St. Gallen </a>',
+            ),
+    ),
+    '20150402' => array (
+        'icon' => '20150402_jugendleitercoaching.jpg',
+        'date' =>  '4.3.2015',
+        'title' => '«Kinder mit Migrations-Hintergrund im Lager» Jugendleiter-Coaching',
+        'description' => 'Theaterpädagogische Weiterbildung zum Thema Gruppenleitung im Kinderlager. Schwerpunkt Spiele und Aktivitäten für fremdsprachige Kinder. In Zusammenarbeit mit Csilla Valentik, Kinder- und Jugendarbeit. Straubenzell / St. Gallen West',
+        'place' => 'Kirchgemeindehaus Lachen, St. Gallen',
+        'link' =>
+            array (
+                '<a href="http://www.straubenzell.ch/_kirchenweb/_ausgabeseiten/kurz-seite.php?freepagename=jugendarbeit">Offene Kinder- und Jugendarbeit der Evangelisch-reformierten Kirchgemeinde Straubenzell SG</a>',
+            ),
+    ),
     '20150501' => array (
         'icon' => '20150501_stell_dir_vor.jpg',
         'date' =>  '1./8.5.2015',
@@ -44,6 +90,8 @@ $project = array(
         'place' => 'Rorschach',
         'link' =>
             array (
+                '<a href="http://www.tagblatt.ch/ostschweiz/stgallen/rorschach/tb-ot08/Kultur-aus-aller-Welt;art2889,4134786">«Kultur aus aller Welt»</a> (St. Galler Tagblatt, 20.2.2015)',
+                '<a href="http://www.albinfo.ch/de/bota-ne-rorschach-nje-vend-me-shume-shqiptare-2/">«“Welt in Rorschach” – eine Stadt mit vielen Albanerinnen und Albanern»</a> (albinfo.ch, 23.2.2015)',
             ),
     ),
     '20150203' => array (

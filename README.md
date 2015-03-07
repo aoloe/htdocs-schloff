@@ -1,5 +1,11 @@
 # htdocs-schloff
 
+## Projekte
+
+Die projekte werden durch `projekte.php`in `theme/schloff/old` eingelesen. eingelesen.
+
+Die dazu gehörigen Daten sind in `theme/schloff/old/data`
+
 ## TODO
 
 TODO:
