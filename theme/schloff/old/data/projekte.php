@@ -29,7 +29,7 @@ $project = array(
         'icon' => '20150529_gretel.jpg',
         'date' =>  '29.5. / 30.5. / 5.6. / 6.6.2015',
         'title' => '«Gretel, Zita und die Pfahlbauer» Märlitheater meets Museum',
-        'description' => 'Das Projekt „Gretel, Zita und die Pfahlbauern,“ lädt Erwachsene und Kinder *ab sieben Jahren* zu einer Theatertour durch das Museum im Kornhaus ein. Spiel zusammen mit anderen unter der Leitung des Märlitheater Rorschach in Zusammenarbeit mit dem Museum im Kornhaus Rorschach Mik. Tickets: Ab 4. Mai 2015 auf der Website des Märlitheater Rorschach.',
+        'description' => 'Das Projekt „Gretel, Zita und die Pfahlbauer,“ lädt Erwachsene und Kinder *ab sieben Jahren* zu einer Theatertour durch das Museum im Kornhaus ein. Spiel zusammen mit anderen unter der Leitung des Märlitheater Rorschach in Zusammenarbeit mit dem Museum im Kornhaus Rorschach Mik. Tickets: Ab 4. Mai 2015 auf der Website des Märlitheater Rorschach.',
         'place' => 'Hotel Mozart Rorschach / Museum im Kornhaus Rorschach SG',
         'link' =>
             array (
@@ -78,7 +78,7 @@ $project = array(
         'place' => 'Öffentlicher Schlussanlass am 27.3.2015, 18.00 Uhr, Lokremise St. Gallen',
         'link' =>
             array (
-                '<a href="http://www.kklick.ch/sg/angebote/show/1-schultheatertage-ostschweiz-2015-241/">Weitere Informationen</a>',
+                '<a href="http://www.kklick.ch/ar/angebote/show/abschlussveranstaltung-erste-schultheatertage-ostschweiz-536/">Weitere Informationen</a>',
                 '<a href="http://www.kklick.ch/fileadmin/kundendaten/angebote/anbieterangebote/sg/schultheatertage_ostschweiz/140625_KKLICK_Details_Schultheatertage_Ostschweiz_2015_01.pdf">Flyer Schultheatertage Ost (pdf)</a>',
             ),
     ),
