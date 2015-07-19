@@ -13,6 +13,76 @@ $project = array(
             ),
     ),
     */
+    '20160226' => array (
+        'icon' => '20160226_stelldirvor.jpg',
+        'date' =>  '26.2.2016',
+        'title' => '«Stell\' dir vor du stellst dich vor» Vorstellungsgespräche-Workshops für OberstufenschülerInnen',
+        'description' => 'Theaterpädagogische Workshops mit Bewerbungs-Gespräch-Training. Konzept und Durchführung im Auftrag der Realschule Rorschach ',
+        'place' => 'Realschule Burghalde, Rorschach SG',
+        'link' =>
+            array (
+                '<a href="http://www.burghaldenschulhaus.ch/">Schulhaus Burghalde</a>',
+            ),
+    ),
+    '20160202' => array (
+        'icon' => '20160202_gottesbild.jpg',
+        'date' =>  '2.-5.2.2016',
+        'title' => '«Gottesbilderwoche» Studienwoche für Religionspädagogik-Studierende der Uni Luzern',
+        'description' => 'Studienwoche zur Dynamik biblischer Gottesvorstellungen im Bildungshaus Stella Matutina der Baldegger Schwestern in Hertenstein LU. Theaterpädagogische Zusammenarbeit mit Dr. theol. Veronika Bachmann, Dozentin für den Fachbereich Bibelwissenschaften am Religionspädagogischen Institut RPI der Theologischen Fakultät der Universität Luzern.',
+        'place' => 'Bildungshaus Stella Matutina, Hertenstein LU',
+        'link' =>
+            array (
+                '<a href="https://www.unilu.ch/fakultaeten/tf/institute/religionspaedagogisches-institut-rpi/">Religionspädagogisches Institut (RPI) Luzern </a>',
+                '<a href="http://www.klosterbaldegg.ch/index.php?id=98">Bildungshaus Stella Matutina</a>',
+            ),
+    ),
+    '20151210' => array (
+        'icon' => '20151210_see.jpg',
+        'date' =>  '10.12.2015 – 17.3.2016',
+        'title' => '«See-Geschichten» Theaterkurs für Kinder und Jugendliche [V]',
+        'description' => 'Freizeit-Theaterkurs für 10 – 15jährige Theaterfans. Ein Stück zum Thema See-Geschichten wird aus Interviews mit den Teilnehmenden gemeinsam entwickelt, eingeübt und auf der Bühne der Rorschacher Café Bar Treppenhaus präsentiert. Konzept und Durchführung in Zusammenarbeit mit dem Verein Schlofftheater und dem Café Bar Treppenhaus, Rorschach.',
+        'place' => 'Café Bar Treppenhaus, Rorschach',
+        'link' =>
+            array (
+                '<a href="http://treppenhaus.ch/">Café Bar Treppenhaus</a>',
+            ),
+    ),
+    '20151102' => array (
+        'icon' => '20151102_gloeck.jpg',
+        'date' =>  '2.11.2015 - 20.3.2016',
+        'title' => '«Glöck ond Sege of de Schüssealp» Theater in Appenzeller Mundart nach Lina Hautle-Koch<br>Aufführungen: 12.3./13.3./16.3./18.3./19.3./20.3.2016',
+        'description' => 'Spiel im Laien-Ensemble unter der Regie von Christa Furrer, Verein Kulturprojekte.',
+        'place' => 'Alte Stuhlfabrik, Kasernenstrasse 39a, Herisau',
+        'link' =>
+            array (
+                '<a href="http://www.altestuhlfabrik.ch/">Alte Stuhlfabrik</a>',
+                '<a href="http://appenzellerverlag.ch/cms/appvprodposttopic/Autorenseite/Hautle-Koch-Lina/52613?autorID=34775">Lina Hautle im Appenzeller Verlag</a>',
+            ),
+    ),
+    '20151005' => array (
+        'icon' => '20151005_copyshop.jpg',
+        'date' =>  '5.-10.10.2015',
+        'title' => '«Der Copy-Shop» Theater- und Tanzprojekt für Kinder & Jugendliche [V]',
+        'description' => 'Ein Ferienprojekt für tanz- oder theaterbegeisterte Kinder und Jugendliche im Kornhaus Rorschach. Wir üben die Geschichte eines mysteriösen Copy-Shops ein und führen das Stück dreimal vor Publikum auf. Konzept und Durchführung in Zusammenarbeit mit Daniela Schläpfer (Tanz) und dem Verein Schlofftheater im Rahmen des Raiffeisen Ferienspass am See. Schlussaufführungen: 9.10.2015 um 19.00 Uhr / 10.10.2015 um 11.00 Uhr & 14.00 Uhr. Eintritt frei, Kollekte.',
+        'place' => 'Kulturraum Kornhaus Parterre Nord, Rorschach',
+        'link' =>
+            array (
+                '<a href="http://www.ferienspassamsee.ch/">Raiffeisen Ferienspass am See</a>',
+                '<a href="http://www.rorschach.ch/stadt/geschichte-in-kuerze">Kornhaus Rorschach</a>',
+                '<a href="http://www.danielatanzt.ch/">Website Daniela Schläpfer</a>',
+            ),
+    ),
+    '20150923' => array (
+        'icon' => '20150923_kickoff.jpg',
+        'date' =>  '23.9.2015',
+        'title' => '«Kick-Off 1. OS» Theater-Workshop für ReligionsschülerInnen aus Winterthur',
+        'description' => 'Theater-Workshop zum Thema des Abends mit Schlussaufführung. Konzept und Durchführung in Zusammenarbeit mit Oliver Sittel von der Regionalen Katholischen Jugendseelsorge Winterthur.',
+        'place' => 'Regionale Katholische Jugendseelsorge Winterthur',
+        'link' =>
+            array (
+                '<a href=http://www.kath-winterthur.ch/kirchgemeinde/regionale-jugendseelsorge/49"">Regionale Katholische Jugendseelsorge Winterthur</a>',
+            ),
+    ),
     '20150629' => array (
         'icon' => '20150629_fhsg.jpg',
         'date' =>  '29.6. – 2.7.2015',
@@ -35,6 +105,9 @@ $project = array(
             array (
                 '<a href="http://maerlitheater-rorschach.ch/">Märlitheater Rorschach</a>',
                 '<a href="http://www.museum-rorschach.ch/">Mik Museum im Kornhaus</a>',
+                '<a href="http://www.tagblatt.ch/ostschweiz/stgallen/rorschach/tb-ot08/Maerlitheater-im-Kornhaus;art2889,4242508 ">«Märlitheater im Kornhaus»</a> (St. Galler Tagblatt, 1.6.2015)',
+                '<a href="http://www.tagblatt.ch/ostschweiz/stgallen/rorschach/tb-ot08/Maerlitheater-meets-Museum;art2889,4227000 ">«Märlitheater meets Museum»</a> (St. Galler Tagblatt, 18.5.2015)',
+                '<a href="http://bn.zehnder.ch/eweb/bn/2015/05/22/bn/10/">«Märlitheater meets Museum»</a> (Bodensee Nachrichten, 22.5.2015)',
             ),
     ),
     '20150501b' => array (
@@ -78,8 +151,11 @@ $project = array(
         'place' => 'Öffentlicher Schlussanlass am 27.3.2015, 18.00 Uhr, Lokremise St. Gallen',
         'link' =>
             array (
-                '<a href="http://www.kklick.ch/ar/angebote/show/abschlussveranstaltung-erste-schultheatertage-ostschweiz-536/">Weitere Informationen</a>',
+                '<a href="http://www.kklick.ch/sg/anbieter/show/arbeitsgruppe-schultheatertage-ostschweiz-48/">Weitere Informationen</a>',
                 '<a href="http://www.kklick.ch/fileadmin/kundendaten/angebote/anbieterangebote/sg/schultheatertage_ostschweiz/140625_KKLICK_Details_Schultheatertage_Ostschweiz_2015_01.pdf">Flyer Schultheatertage Ost (pdf)</a>',
+                '<a href="http://www.tagblatt.ch/ostschweiz/thurgau/kantonthurgau/tz-tg/Schueler-spinnen-Theaternetze;art123841,4176685">«Schüler spinnen Theaternetze»</a> (St. Galler Tagblatt, 30.3.2015)',
+                '<a href="http://www.tagblatt.ch/ostschweiz/thurgau/romanshorn/tz-ro/Grosse-Buehne-fuer-kleine-Dorfschule;art123832,4173740 ">«Grosse Bühne für kleine Dorfschule»</a> (St. Galler Tagblatt, 27.3.2015)',
+                '<a href="http://www.tagblatt.ch/ostschweiz/stgallen/rheintal/rt-pi/Zeltmonster-und-Rattenfaenger;art169,4141350 ">«Zeitmonster und Rattenfänger»</a> (St. Galler Tagblatt, 26.2.2015)',
             ),
     ),
     '20150221' => array (
