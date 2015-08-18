@@ -36,17 +36,6 @@ $project = array(
                 '<a href="http://www.klosterbaldegg.ch/index.php?id=98">Bildungshaus Stella Matutina</a>',
             ),
     ),
-    '20151210' => array (
-        'icon' => '20151210_see.jpg',
-        'date' =>  '10.12.2015 – 17.3.2016',
-        'title' => '«See-Geschichten» Theaterkurs für Kinder und Jugendliche [V]',
-        'description' => 'Freizeit-Theaterkurs für 10 – 15jährige Theaterfans. Ein Stück zum Thema See-Geschichten wird aus Interviews mit den Teilnehmenden gemeinsam entwickelt, eingeübt und auf der Bühne der Rorschacher Café Bar Treppenhaus präsentiert. Konzept und Durchführung in Zusammenarbeit mit dem Verein Schlofftheater und dem Café Bar Treppenhaus, Rorschach.',
-        'place' => 'Café Bar Treppenhaus, Rorschach',
-        'link' =>
-            array (
-                '<a href="http://treppenhaus.ch/">Café Bar Treppenhaus</a>',
-            ),
-    ),
     '20151102' => array (
         'icon' => '20151102_gloeck.jpg',
         'date' =>  '2.11.2015 - 20.3.2016',
@@ -57,6 +46,17 @@ $project = array(
             array (
                 '<a href="http://www.altestuhlfabrik.ch/">Alte Stuhlfabrik</a>',
                 '<a href="http://appenzellerverlag.ch/cms/appvprodposttopic/Autorenseite/Hautle-Koch-Lina/52613?autorID=34775">Lina Hautle im Appenzeller Verlag</a>',
+            ),
+    ),
+    '20151031' => array (
+        'icon' => '20151210_see.jpg',
+        'date' =>  '31.10.2015 – 3.3.2016',
+        'title' => '«See-Geschichten» Theaterkurs für Kinder und Jugendliche [V]',
+        'description' => 'Freizeit-Theaterkurs für 10 – 15jährige Theaterfans. Ein Stück zum Thema See-Geschichten wird aus Interviews mit den Teilnehmenden gemeinsam entwickelt, eingeübt und auf der Bühne der Rorschacher Café Bar Treppenhaus präsentiert. Konzept und Durchführung in Zusammenarbeit mit dem Verein Schlofftheater und dem Café Bar Treppenhaus, Rorschach.',
+        'place' => 'Café Bar Treppenhaus, Rorschach',
+        'link' =>
+            array (
+                '<a href="http://treppenhaus.ch/">Café Bar Treppenhaus</a>',
             ),
     ),
     '20151005' => array (
@@ -81,6 +81,17 @@ $project = array(
         'link' =>
             array (
                 '<a href=http://www.kath-winterthur.ch/kirchgemeinde/regionale-jugendseelsorge/49"">Regionale Katholische Jugendseelsorge Winterthur</a>',
+            ),
+    ),
+    '20150917' => array (
+        'icon' => '20150917_gottesdienst.jpg',
+        'date' =>  '17.9.2015',
+        'title' => '«Theater - im Gottesdienst?» Workshop für Jugendliche',
+        'description' => 'Theaterpädagogische Inputs für Jugendliche, die kurze Anspiele im Jugendgottesdienst aufführen. Konzept und Leitung in Zusammenarbeit mit Enrico Pezzoni, Regionale Erlebnisprogramme Oberrheintal',
+        'place' => 'Evangelische Kirchgemeinde Altstätten',
+        'link' =>
+            array (
+                '<a href="http://www.ref-altstaetten.ch/">Evangelische Kirchgemeinde Altstätten</a>',
             ),
     ),
     '20150629' => array (
