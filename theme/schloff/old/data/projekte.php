@@ -36,6 +36,20 @@ $project = array(
                 '<a href="http://www.klosterbaldegg.ch/index.php?id=98">Bildungshaus Stella Matutina</a>',
             ),
     ),
+    '20151208' => array (
+        'icon' => '20151208_rassismus.jpg',
+        'date' =>  '8. Dezember 2015, 19.00',
+        'title' => '«Forumtheater zu Rassismus und Diskriminierung» Aufführung in Rorschach [V]',
+        'description' => 'Das ForumTheater Schweiz spielt ihr neustes Forumstück zum Thema Diskriminierung im Arbeitsmarkt im Zentrum St. Kolumban Rorschach.  Organisation zusammen mit dem Verein Schlofftheater, der Katholischen Kirche Region Rorschach und Rebekka Benz vom ForumTheater Schweiz.',
+        'place' => 'Katholische Kirche Region Rorschach',
+         
+        'link' =>
+            array (
+                '<a href="www.kolumban.ch/willkommen.html">Katholische Kirche Region Rorschach</a>',
+                '<a href="www.forumtheaterschweiz.ch">ForumTheater Schweiz</a>',
+             
+            ),
+    ),
     '20151102' => array (
         'icon' => '20151102_gloeck.jpg',
         'date' =>  '2.11.2015 - 20.3.2016',
@@ -52,11 +66,13 @@ $project = array(
         'icon' => '20151210_see.jpg',
         'date' =>  '31.10.2015 – 3.3.2016',
         'title' => '«See-Geschichten» Theaterkurs für Kinder und Jugendliche [V]',
-        'description' => 'Freizeit-Theaterkurs für 10 – 15jährige Theaterfans. Ein Stück zum Thema See-Geschichten wird aus Interviews mit den Teilnehmenden gemeinsam entwickelt, eingeübt und auf der Bühne der Rorschacher Café Bar Treppenhaus präsentiert. Konzept und Durchführung in Zusammenarbeit mit dem Verein Schlofftheater und dem Café Bar Treppenhaus, Rorschach.',
-        'place' => 'Café Bar Treppenhaus, Rorschach',
+        'description' => 'Freizeit-Theaterkurs für 10 – 15jährige Theaterfans. Ein Stück zum Thema See-Geschichten wird aus Interviews mit den Teilnehmenden gemeinsam entwickelt, eingeübt und aufgeführt. Konzept und Durchführung in Zusammenarbeit mit dem Verein Schlofftheater und Daniela Schläpfer, Tanz.<br>Aufführungen:<br>Samstag 20.2.2016, 17.00 / 19.00 Uhr, Treppenhaus Rorschach;<br>Sonntag 21.2.2016, 11.00 Uhr, Treppenhaus Rorschach;<br>Samstag 27.2.2016, 15.00 / 17.00 Uhr, Theater 111 St. Gallen.<br>Eintritt frei / Kollekte.<br>Platzreservationen: <a href="mailto:beatrice.mock@schlofftheater.ch">beatrice.mock@schlofftheater.ch</a>.',
+        'place' => '',
         'link' =>
             array (
                 '<a href="http://treppenhaus.ch/">Café Bar Treppenhaus</a>',
+                '<a href="http://www.th111sg.ch">Theater 111</a>, St. Gallen',
+                '<a href="'.get_uploads_url().'projekte/pdf/20151210_see_flyer.pdf">Flyer</a> (pdf)',
             ),
     ),
     '20151005' => array (
@@ -189,7 +205,7 @@ $project = array(
         'place' => '',
         'link' =>
             array (
-                '<a href="'.get_uploads_url().'20150203_gottbewegt.pdf">Flyer Studienwoche (pdf)</a>',
+                '<a href="'.get_uploads_url().'projekte/pdf/20150203_gottbewegt.pdf">Flyer Studienwoche (pdf)</a>',
                 '<a href="https://www.unilu.ch/fakultaeten/tf/institute/religionspaedagogisches-institut-rpi/">Religionspädagogisches Institut RPI Luzern</a>',
             ),
     ),
