@@ -13,6 +13,67 @@ $project = array(
             ),
     ),
     */
+    '20161023' => array (
+        'icon' => '20161023_d_wawuschel.jpg',
+        'date' =>  '23.10.2016',
+        'title' => '«D\'Wawuschel mit de grüene Hoor» Märlitheater für Kinder ab 5 Jahren',
+        'description' => 'Produktion des Märlitheater Rorschach: Ein buntes und witziges Kinderstück, schweizerdeutsch nach dem Buch von Irina Korschunow.<br>Mitarbeit bei Drehbuch, Requisiten und Regieassistenz.',
+        'place' => '',
+        'link' =>
+            array (
+                '<a href="http://maerlitheater-rorschach.ch/">Verein Märlitheater Rorschach</a>',
+            ),
+    ),
+    '20160917' => array (
+        'icon' => '20160917_maerchen.jpg',
+        'date' =>  '17./23./25. September 2016',
+        'title' => '«Märchen... und andere Geheimnisse» Chorkonzert mit theatraler Note',
+        'description' => 'Theater-Spiel im Ensemble anlässlich des Jubiläums-Konzerts des Frauenchor Rorschacherberg. In Zusammenarbeit mit Regisseur Hanspeter Kehl und Dirigentin Kathrin Pfändler.',
+        'place' => 'Herz-Jesu-Kirche, Rorschach',
+        'link' =>
+            array (
+                '<a href="http://www.frauenchor-rorschacherberg.ch/startseite.html">Frauenchor Rorschacherberg</a>',
+            ),
+    ),
+    '20160516' => array (
+        'icon' => '20160516_improvisieren.jpg',
+        'date' =>  '12.5.2016',
+        'title' => '«Improvisieren geht über Studieren» Improvisationstheater-Workshop für Jugendliche',
+        'description' => '"rheinspringen bridges" heisst das kantonale Motivationssemester für Jugendliche und junge Erwachsene auf Lehrstellensuche. Workshop-Leitung in Zusammenarbeit mit Job-Coach Andrea Keller, für Teilnehmende des Motivationssemesters des Kantons St. Gallen.  ',
+        'place' => 'rheinspringen bridges, Leonhardstrasse 22, St. Gallen',
+        'link' =>
+            array (
+                '<a href="http://www.rheinspringen.ch/index.php?id=15">Motivationssemester rheinspringen bridges</a>',
+            ),
+    ),
+    '20160321' => array (
+        'icon' => '20160321_vier.jpg',
+        'date' =>  '21.3.2016',
+        'title' => '«Vier» 2. Schultheatertage Ostschweiz 2016',
+        'description' => 'Zum zweiten Mal fanden von Oktober 2015 - März 2016 die Schultheatertage Ostschweiz statt. Theaterpädagogische Erarbeitung des Stücks «In meinen 4 Wänden», Coaching 2 Lehrkräfte & Schulklasse in Engelburg SG in Zusammenarbeit mit dem OK der 2. Schultheatertage Ostschweiz.',
+        'place' => 'Lokremise St. Gallen',
+        'link' =>
+            array (
+                '<a href="http://www.lokremise.ch/">Lokremise St. Gallen</a>',
+                '<a href="http://www.phsg.ch/web/studium/kindergarten-und-primarschule/fachstelle-theater.aspx">Fachstelle Theater PHSG</a>',
+                '<a href="http://www.theatersg.ch/mitmachen/schulangebote/schulklassen">Theaterpädagogik Stadttheater St. Gallen</a>',
+                '<a href="http://www.bilitz.ch/paeda.php">Fachstelle Theaterpädagogik Bilitz Weinfelden</a>',
+                '<a href="https://www.tagblatt.ch/ostschweiz/stgallen/stadtstgallen/tb-st/Die-Welt-geht-doch-nicht-unter;art186,4566407">«Die Welt geht doch nicht unter»</a> (St. Galler Tagblatt, 23.3.2016)',
+                '<a href="http://www.kklick.ch/sg/informationen/vom-theatervirus-angesteckt-2016-04-01/">«Vom Theatervirus angesteckt»</a> (Rückblick auf KKlick, 1.4.20169)',
+            ),
+    ),
+    '20160310' => array (
+        'icon' => '20160310_gespenstertheater.jpg',
+        'date' =>  '10.3.2016',
+        'title' => '«Gespenstertheater der Viertklässler» Sonderwoche Primarschule Walzenhausen',
+        'description' => 'Stückbearbeitung «Gespensterjäger auf eisiger Spur» von Cornelia Funke, theaterpädagogische Beratung der Lehrerin und Workshop mit der 4. Klasse im Schulhaus Güetli. Aufführung am Elternabend vom 10. März 2016, 19.00 im Schulhaus.',
+        'place' => 'Schulhaus Güetli, Walzenhausen',
+        'link' =>
+            array (
+                '<a href="http://www.schule-walzenhausen.ch/schulhaeuser/gueetli.htm">Schulhaus Güetli, Walzenhausen</a>',
+                '<a href="http://www.phsg.ch/web/studium/kindergarten-und-primarschule/fachstelle-theater.aspx">Fachstelle Theater PHSG</a>',
+            ),
+    ),
     '20160226' => array (
         'icon' => '20160226_stelldirvor.jpg',
         'date' =>  '26.2.2016',
@@ -53,13 +114,15 @@ $project = array(
     '20151102' => array (
         'icon' => '20151102_gloeck.jpg',
         'date' =>  '2.11.2015 - 20.3.2016',
-        'title' => '«Glöck ond Sege of de Schüssealp» Theater in Appenzeller Mundart nach Lina Hautle-Koch<br>Aufführungen: 12.3./13.3./16.3./18.3./19.3./20.3.2016',
+        'title' => '«Glöck und Sege of de Schüüssealp oder Em Röbi sin Traum»',
         'description' => 'Spiel im Laien-Ensemble unter der Regie von Christa Furrer, Verein Kulturprojekte.',
         'place' => 'Alte Stuhlfabrik, Kasernenstrasse 39a, Herisau',
         'link' =>
             array (
+                '<a href="'.get_uploads_url().'projekte/pdf/20151102_gloeck.pdf">Flyer</a> (pdf)',
                 '<a href="http://www.altestuhlfabrik.ch/">Alte Stuhlfabrik</a>',
                 '<a href="http://appenzellerverlag.ch/cms/appvprodposttopic/Autorenseite/Hautle-Koch-Lina/52613?autorID=34775">Lina Hautle im Appenzeller Verlag</a>',
+                '<a href="http://www.tagblatt.ch/ostschweiz/appenzellerland/appenzellerland/at-ap/Armer-Tropf-und-lieber-Kerli;art120091,4555459">«Armer Tropf» und «lieber Kerli»</a> (St. Galler Tagblatt, 14.3.2016)',
             ),
     ),
     '20151031' => array (
