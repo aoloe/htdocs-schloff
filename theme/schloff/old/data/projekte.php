@@ -13,6 +13,69 @@ $project = array(
             ),
     ),
     */
+    '20160601' => array (
+        'icon' => '20160601_wir.jpg',
+        'date' =>  'Juni 2016 – März 2017',
+        'title' => '«Welt in Rorschach 2» Theaterprojekt für Erwachsene aus der Region [V]',
+        'description' => 'Die Welt ist in Bewegung: Flüchtlinge suchen Friedensgebiete, Migrantinnen suchen eine Zukunft für ihre Familie, Vereinsamte suchen Anschluss in der Gesellschaft. In der Grenzstadt Rorschach suchen viele nach Orientierung: Wer ist hier fremd? Wer ist daheim? Wer flucht - und wer flüchtet? In 30 Proben erarbeiten Erwachsene  aus der Region eine Geschichte, wie sie das Leben in der multikulturellen Hafenstadt schreibt. Aus Improvisationen wird ein zusammenhängendes Stück gefasst, eingeübt und in Rorschach & Region aufgeführt. Ein Apéro macht den Theaterabend zum integrativen Begegnungsanlass. Erarbeitung und Inszenierung des Stücks in Zusammenarbeit mit Ajete Maliqi, Chefin Organisationskomitee. Aufführungen im März 2017 in der Region Ostschweiz.',
+        'place' => 'Rorschach',
+    ),
+    '20160527' => array (
+        'icon' => '20160527_zoo_cool.jpg',
+        'date' =>  '27.5. / 3.6. / 9.9. / 4.11.2016',
+        'title' => '«Zoo cool» Spielabend für Primarschulkinder',
+        'description' => 'Theaterpädagogische Mitarbeit zusammen mit Jasmin Katz, Bernadette Mock, Svenja Monno & Team der Offenen Arbeit mit Kindern in der Stadt St. Gallen. ',
+        'place' => 'St. Galler Schulhäuser Tschudiwies (27.5.), Buchwald (3.6.), Engelwies (9.9.), Halden (4.11.)',
+        'link' =>
+            array (
+                '<a href="http://www.stadt.sg.ch/home/gesellschaft-sicherheit/familie-kinder/familienpolitik/offene-arbeit-kinder.html">OAK Offene Arbeit mit Kindern Stadt St. Gallen</a>',
+            ),
+    ),
+    '20161029' => array (
+        'icon' => '20161029_alles_theater.jpg',
+        'date' =>  '29.10.2016',
+        'title' => '«Alles Theater» Familientreffen Erlebnis-Nachmittag',
+        'description' => 'Theaterpädagogische Mitgestaltung in Zusammenarbeit mit Cornelia Callegari, Antonella Viscont, Sarah Soosaipillai und Claudia Späth.  Erlebnis-Nachmittag mit Gottesdienst, veranstaltet von der Katholischen Kirche Region Rorschach.',
+        'place' => 'Zentrum St. Kolumban, Kirchstrasse 9, Rorschach',
+        'link' =>
+            array (
+                '<a href="https://www.kkrr.ch/index.html">Katholische Kirche Region Rorschach</a>',
+            ),
+    ),
+    '20161010' => array (
+        'icon' => '20161010_tierisch.jpg',
+        'date' =>  '10.-15.10.2016',
+        'title' => '«Tierisch» TanzTheaterprojekt für Kinder und Jugendliche [V]',
+        'description' => 'Tanz- und Theaterprojekt für 8-15jährige Kinder und Jugendliche im Rahmen des Raiffeisen Ferienspass am See.  Theaterpädagogische Leitung & Projektleitung in Zusammenarbeit mit Daniela Schläpfer (Tanz) und Rebecca Bossart (Praktikum). 3 Öffentliche Aufführungen: Freitag 14.10.2016, 18.00 Uhr / 19.30 Uhr; Samstag 15.10.2016, 11.00 Uhr. Eintritt frei, Kollekte.<br>Möchtest du mitmachen? Für Anmeldung <a href="http://www.theaterpaedagogik.ch/kurs/kursdetail.php?ids=4201">hier klicken</a>',
+        'place' => 'Projektraum Dufourstrasse 14, Rorschach',
+        'link' =>
+            array (
+                '<a href="http://ferienspassamsee.ch/">Raiffeisen Ferienspass am See</a>',
+                '<a href="http://www.danielatanzt.ch/">Daniela Schläpfer</a>',
+            ),
+    ),
+    '20160808' => array (
+        'icon' => '20160808_atlantis.jpg',
+        'date' =>  '8./12.8.2016',
+        'title' => '«Online im Park» Atlantis-Kinderwoche Sommerplausch St. Gallen',
+        'description' => 'Theaterauftritt zur Eröffnung und zum Abschluss der Atlantis-Kinderwoche 2016 im Rahmen des Sommerplausch in der Stadt St. Gallen. In Zusammenarbeit mit Matthias Roth & Leiterteam von der Offenen Arbeit mit Kindern Zentrum, St. Gallen.',
+        'place' => 'St. Gallen',
+        'link' =>
+            array (
+                '<a href="http://www.stadt.sg.ch/home/gesellschaft-sicherheit/familie-kinder/familienpolitik/offene-arbeit-kinder.html">Offene Arbeit mit Kindern</a>',
+            ),
+    ),
+    '20160525' => array (
+        'icon' => '20160525_shooting.jpg',
+        'date' =>  '25.6.2016',
+        'title' => '«The Shooting» Sommerabschluss der Modeschule Barbara Wegelin',
+        'description' => 'Regie der Präsentation zweier Modekollektionen im Rahmen der Sommer-Abschlussfeier der Modeschule Barbara Wegelin im Pfalzkeller St. Gallen.',
+        'place' => 'Pfalzkeller, Klosterhof, St. Gallen',
+        'link' =>
+            array (
+                '<a href="http://www.modeschule.ch/">Modeschule Barbara Wegelin St. Gallen</a>',
+            ),
+    ),
     '20161023' => array (
         'icon' => '20161023_d_wawuschel.jpg',
         'date' =>  '23.10.2016',
