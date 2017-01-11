@@ -16,9 +16,25 @@ $project = array(
     '20160601' => array (
         'icon' => '20160601_wir.jpg',
         'date' =>  'Juni 2016 – März 2017',
-        'title' => '«Welt in Rorschach 2» Theaterprojekt für Erwachsene aus der Region [V]',
-        'description' => 'Die Welt ist in Bewegung: Flüchtlinge suchen Friedensgebiete, Migrantinnen suchen eine Zukunft für ihre Familie, Vereinsamte suchen Anschluss in der Gesellschaft. In der Grenzstadt Rorschach suchen viele nach Orientierung: Wer ist hier fremd? Wer ist daheim? Wer flucht - und wer flüchtet? In 30 Proben erarbeiten Erwachsene  aus der Region eine Geschichte, wie sie das Leben in der multikulturellen Hafenstadt schreibt. Aus Improvisationen wird ein zusammenhängendes Stück gefasst, eingeübt und in Rorschach & Region aufgeführt. Ein Apéro macht den Theaterabend zum integrativen Begegnungsanlass. Erarbeitung und Inszenierung des Stücks in Zusammenarbeit mit Ajete Maliqi, Chefin Organisationskomitee. Aufführungen im März 2017 in der Region Ostschweiz.',
-        'place' => 'Rorschach',
+        'title' => '«Welt in Rorschach 2: Der Test» Theaterprojekt für Erwachsene aus der Region [V]',
+        'description' => 'Die Welt ist in Bewegung: Flüchtende suchen Friedensgebiete, Eltern eine Zukunft für ihre Familie und Einsame Anschluss an die Gesellschaft. In der Grenzstadt Rorschach suchen viele nach Orientierung: Wer ist fremd?  Wer ist daheim? Wer flucht und wer flüchtet? 10 Erwachsene aus der Region spielen eine Geschichte, wie sie das Leben in der multikulturellen Hafenstadt schreibt. Im Stück und in einer Ausstellung dabei sind die Bilder der Rorschacher Künstlerin Sevil Yildiz.',
+        'place' => 
+            '<br>'.
+            '<strong>Aufführungen</strong><br><br>'.
+            '<em>Samstag 11. März 2017 19.30</em><br>'.
+            'Ausstellung & Theater<br>'.
+            '<a href="https://www.google.ch/search?q=SEkundarschule+Rorschach&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=9-1gWLGwMePM8gfl65KQBw#tbm=lcl&q=Sekundarschule+Rorschach&rlfi=hd:;si:11543321782314614651;mv:!1m3!1d1123.6817089813194!2d9.496141649999998!3d47.473621699999995!2m3!1f0!2f0!3f0!3m2!1i530!2i80!4f13.1">Aula Sekundarschule Kreuzacker</a>, Waisenhausstrasse 3, 9400 Rorschach<br><br>'.
+            '<em>Sonntag 12. März 2017 14.30</em><br>'.
+            'Ausstellung & Theater<br>'.
+            '<a href="https://www.google.ch/search?q=SEkundarschule+Rorschach&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=9-1gWLGwMePM8gfl65KQBw#tbm=lcl&q=Sekundarschule+Rorschach&rlfi=hd:;si:11543321782314614651;mv:!1m3!1d1123.6817089813194!2d9.496141649999998!3d47.473621699999995!2m3!1f0!2f0!3f0!3m2!1i530!2i80!4f13.1">Aula Sekundarschule Kreuzacker</a>, Waisenhausstrasse 3, 9400 Rorschach<br><br>'.
+            '<em>Sonntag 26. März 2017 13.30</em><br>'.
+            'Ausstellung & Theater<br>'.
+            '<a href="http://www.theater111.ch/inhalt/wir-welt-rorschach-2-der-test#2017-03-26T13">Theater. 111</a>, Grossackerstrasse 3, 9000 St. Gallen<br><br>'.
+            '<em>Sonntag 26. März 2017 16.30</em><br>'.
+            'Ausstellung & Theater<br>'.
+            '<a href="http://www.theater111.ch/inhalt/wir-welt-rorschach-2-der-test#2017-03-26T13">Theater. 111</a>, Grossackerstrasse 3, 9000 St. Gallen<br><br>'.
+            'Platzreservationen: 079 510 84 72 - Eintritt frei / Kollekte.<br>'.
+            'Türöffnung: 30 Minuten vor Beginn'
     ),
     '20160527' => array (
         'icon' => '20160527_zoo_cool.jpg',
