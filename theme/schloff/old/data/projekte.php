@@ -54,8 +54,8 @@ $project = array(
         'place' => 'Bildungshaus Stella Matutina, Hertenstein LU',
         'link' =>
             array (
-                '<a href="<https://www.unilu.ch/fakultaeten/tf/institute/religionspaedagogisches-institut-rpi/>">Religionspädagogisches Institut (RPI) Luzern </a>',
-                '<a href="<http://www.klosterbaldegg.ch/index.php?id=98>">Bildungshaus Stella Matutina</a>',
+                '<a href="https://www.unilu.ch/fakultaeten/tf/institute/religionspaedagogisches-institut-rpi/">Religionspädagogisches Institut (RPI) Luzern </a>',
+                '<a href="http://www.klosterbaldegg.ch/index.php?id=98">Bildungshaus Stella Matutina</a>',
             ),
     ),
     '20160601' => array (
@@ -68,10 +68,10 @@ $project = array(
             '<strong>Aufführungen</strong><br><br>'.
             '<em>Samstag 11. März 2017 19.30</em><br>'.
             'Ausstellung & Theater<br>'.
-            '<a href="https://www.google.ch/search?q=SEkundarschule+Rorschach&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=9-1gWLGwMePM8gfl65KQBw#tbm=lcl&q=Sekundarschule+Rorschach&rlfi=hd:;si:11543321782314614651;mv:!1m3!1d1123.6817089813194!2d9.496141649999998!3d47.473621699999995!2m3!1f0!2f0!3f0!3m2!1i530!2i80!4f13.1">Aula Sekundarschule Kreuzacker</a>, Waisenhausstrasse 3, 9400 Rorschach<br><br>'.
+            '<a href="https://www.google.ch/search?q=SEkundarschule+Rorschach&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=9-1gWLGwMePM8gfl65KQBw#tbm=lcl&q=Sekundarschule+Rorschach&rlfi=hd:;si:14630609961432191344;mv:!1m3!1d1123.6817089813194!2d9.496141649999998!3d47.473621699999995!2m3!1f0!2f0!3f0!3m2!1i530!2i80!4f13.1">Aula Sekundarschule Kreuzacker</a>, Waisenhausstrasse 3, 9400 Rorschach<br><br>'.
             '<em>Sonntag 12. März 2017 14.30</em><br>'.
             'Ausstellung & Theater<br>'.
-            '<a href="https://www.google.ch/search?q=SEkundarschule+Rorschach&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=9-1gWLGwMePM8gfl65KQBw#tbm=lcl&q=Sekundarschule+Rorschach&rlfi=hd:;si:11543321782314614651;mv:!1m3!1d1123.6817089813194!2d9.496141649999998!3d47.473621699999995!2m3!1f0!2f0!3f0!3m2!1i530!2i80!4f13.1">Aula Sekundarschule Kreuzacker</a>, Waisenhausstrasse 3, 9400 Rorschach<br><br>'.
+            '<a href="https://www.google.ch/search?q=SEkundarschule+Rorschach&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&ei=9-1gWLGwMePM8gfl65KQBw#tbm=lcl&q=Sekundarschule+Rorschach&rlfi=hd:;si:14630609961432191344;mv:!1m3!1d1123.6817089813194!2d9.496141649999998!3d47.473621699999995!2m3!1f0!2f0!3f0!3m2!1i530!2i80!4f13.1">Aula Sekundarschule Kreuzacker</a>, Waisenhausstrasse 3, 9400 Rorschach<br><br>'.
             '<em>Sonntag 26. März 2017 13.30</em><br>'.
             'Ausstellung & Theater<br>'.
             '<a href="http://www.theater111.ch/inhalt/wir-welt-rorschach-2-der-test#2017-03-26T13">Theater. 111</a>, Grossackerstrasse 3, 9000 St. Gallen<br><br>'.
@@ -533,7 +533,7 @@ $project = array(
         'place' => 'Schulhäuser Buchwald und St. Leonhard, St. Gallen',
         'link' =>
             array (
-                '<a href="<http://www.stadt.sg.ch/home/gesellschaft-sicherheit/familie-kinder/familienpolitik/offene-arbeit-kinder.html>">Offene Arbeit mit Kindern Stadt St. Gallen </a>',
+                '<a href="http://www.stadt.sg.ch/home/gesellschaft-sicherheit/familie-kinder/familienpolitik/offene-arbeit-kinder.html">Offene Arbeit mit Kindern Stadt St. Gallen </a>',
             ),
     ),
     '20140502' => array (
