@@ -13,6 +13,51 @@ $project = array(
             ),
     ),
     */
+    '20170624' => array (
+        'icon' => '20170624_kinderkirche.jpg',
+        'date' =>  '24.6.2017 / 11.-13.10.2017',
+        'title' => '«Gais vor 500 Johr» Reformationstheater mit Kindern',
+        'description' => 'Wie sehen Gaiser Kinder die Reformation? Eine gute Frage anlässlich des Reformationsjubiläums „500 Jahre Reformation“. Workshop zur Drehbuchentwicklung, Drehbuch und Inszenierung anlässlich der Herbstplauschtage der Kinderkirche Gais. In Zusammenarbeit mit Sozialdiakon Daniel Menzi.',
+        'place' => 'Reformierte Kirche, Gais',
+        'link' =>
+            array (
+                '<a href="http://www.ref-gais.ch/index.php/kinder-jugendliche.html">Kinder-Kirche der Evangelisch-Reformierten Kirchgemeinde Gais</a>',
+            ),
+    ),
+    '20170504' => array (
+        'icon' => '20170504_fit.jpg',
+        'date' =>  '4.5.2017',
+        'title' => '«Stell\' dir vor du stellst dich vor» Vorstellungsgespräche-Workshops für OberstufenschülerInnen',
+        'description' => 'Theaterpädagogische Workshops mit Bewerbungs-Gespräch-Training. Konzept und Durchführung im Rahmen der Bewerbungstage im Auftrag der Realschule Rorschach.',
+        'place' => 'Realschule Burghalde, Rorschach SG',
+        'link' =>
+            array (
+                '<a href="http://www.rorschach.ch/schule/portrait-oberstufe">Oberstufe Rorschach</a>',
+            ),
+    ),
+    '20170317' => array (
+        'icon' => '20170317_fit.jpg',
+        'date' =>  '17./31.3.2017',
+        'title' => '"Stell\' dir vor du stellst dich vor" Vorstellungsgespräche-Workshops',
+        'description' => 'Vorstellungs-Gespräche-Trainings mit Schülerinnen und Schülern der 2.  Oberstufe. Konzept und Durchführung in Zusammenarbeit mit Peter Rutishauser, Gossau',
+        'place' => 'Oberstufenzentrum Buechenwald, 9200 Gossau SG.',
+        'link' =>
+            array (
+                '<a href="http://www.schulegossau.ch/de/schule/oberstufe/">OZ Buechenwald Gossau</a>',
+            ),
+    ),
+    '20170131' => array (
+        'icon' => '20170131_rpi.jpg',
+        'date' =>  '31.1 - 3.2.2017',
+        'title' => '«Gott bewegt. Die Dynamik biblischer Gottesbilder» Studienwoche RPI',
+        'description' => 'Studienwoche für Studierende am Religionspädagogischen Institut Luzern im Bildungshaus Stella Matutina der Baldegger Schwestern in Hertenstein LU. Theaterpädagogische Zusammenarbeit mit Dr. theol. Veronika Bachmann, Dozentin für den Fachbereich Bibelwissenschaften am Religionspädagogischen Institut RPI der Theologischen Fakultät der Universität Luzern.',
+        'place' => 'Bildungshaus Stella Matutina, Hertenstein LU',
+        'link' =>
+            array (
+                '<a href="<https://www.unilu.ch/fakultaeten/tf/institute/religionspaedagogisches-institut-rpi/>">Religionspädagogisches Institut (RPI) Luzern </a>',
+                '<a href="<http://www.klosterbaldegg.ch/index.php?id=98>">Bildungshaus Stella Matutina</a>',
+            ),
+    ),
     '20160601' => array (
         'icon' => '20160601_wir.jpg',
         'date' =>  'Juni 2016 – März 2017',
