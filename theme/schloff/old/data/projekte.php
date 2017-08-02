@@ -13,15 +13,85 @@ $project = array(
             ),
     ),
     */
-    '20170624' => array (
-        'icon' => '20170624_kinderkirche.jpg',
-        'date' =>  '24.6.2017 / 11.-13.10.2017',
-        'title' => '«Gais vor 500 Johr» Reformationstheater mit Kindern',
-        'description' => 'Wie sehen Gaiser Kinder die Reformation? Eine gute Frage anlässlich des Reformationsjubiläums „500 Jahre Reformation“. Workshop zur Drehbuchentwicklung, Drehbuch und Inszenierung anlässlich der Herbstplauschtage der Kinderkirche Gais. In Zusammenarbeit mit Sozialdiakon Daniel Menzi.',
-        'place' => 'Reformierte Kirche, Gais',
+    '20180503' => array (
+        'icon' => '20180503_stell_dir_vor.jpg',
+        'date' =>  '3./4.5.2018',
+        'title' => '«Stell\' dir vor du stellst dich vor» Vorstellungsgespräche-Workshops für OberstufenschülerInnen',
+        'description' => 'Theaterpädagogische Workshops mit Bewerbungs-Gespräch-Training. Konzept und Durchführung im Rahmen der Bewerbungstage im Auftrag der Oberstufe Rorschach.',
+        'place' => 'Schulhaus Kreuzacker, Rorschach SG',
         'link' =>
             array (
-                '<a href="http://www.ref-gais.ch/index.php/kinder-jugendliche.html">Kinder-Kirche der Evangelisch-Reformierten Kirchgemeinde Gais</a>',
+                '<a href="http://www.rorschach.ch/schule/portrait-oberstufe">Oberstufe Rorschach</a>',
+            ),
+    ),
+    '20180130' => array (
+        'icon' => '20180130_gottesbildwoche.jpg',
+        'date' =>  '30.1. - 2.2.2018',
+        'title' => '«Gottesbildwoche» Studienwoche für Religionspädagogik-Studierende',
+        'description' => 'Studienwoche zur Dynamik biblischer Gottesvorstellungen im Bildungshaus Stella Matutina der Baldegger Schwestern in Hertenstein LU. Theaterpädagogische Zusammenarbeit mit Dr. theol. Veronika Bachmann, Dozentin für den Fachbereich Bibelwissenschaften am Religionspädagogischen Institut RPI der Theologischen Fakultät der Universität Luzern.',
+        'place' => 'Bildungshaus Stella Matutina, Hertenstein LU',
+        'link' =>
+            array (
+                '<a href="https://www.unilu.ch/fakultaeten/tf/institute/religionspaedagogisches-institut-rpi/">Religionspädagogisches Institut (RPI) Luzern </a>',
+                '<a href="http://www.klosterbaldegg.ch/index.php?id=98">Bildungshaus Stella Matutina</a>',
+            ),
+    ),
+    '20171108' => array (
+        'icon' => '20171108_ich_und_meine_kirche.jpg',
+        'date' =>  '8./9.11.2017',
+        'title' => '«Ich und meine Kirche» Theaterworkshops für Jugendseelsorgende',
+        'description' => 'Konzept und Leitung von zwei Theaterworkshops für Kirchenmitarbeitende im Rahmen der Juseso-Herbsttagung des Bistums St. Gallen zum Thema «Sag, wie hast du\'s mit der Kirche?». Im Auftrag und in Zusammenarbeit mit der DAJU Diözesane Arbeitsstelle für Jugendseelsorge.',
+        'place' => 'Bildungshaus St. Arbogast, A-6840 Götzis',
+        'link' =>
+            array (
+                '<a href=https://arbogast.at/"">Bildungshaus St. Arbogast</a>',
+                '<a href="http://www.daju.ch/home.html">DAJU</a>',
+            ),
+    ),
+    '20171102' => array (
+        'icon' => '20171102_improvisieren.jpg',
+        'date' =>  '2.11.2017',
+        'title' => '«Improvisieren geht über Studieren» Improtheater-Workshop für Jugendliche',
+        'description' => '"rheinspringen bridges" heisst das kantonale Motivationssemester für Jugendliche und junge Erwachsene auf Lehrstellensuche. Workshop-Leitung in Zusammenarbeit mit Job-Coach Andrea Keller, für Teilnehmende des Motivationssemesters des Kantons St. Gallen. ',
+        'place' => 'rheinspringen bridges, Leonhardstrasse 22, St. Gallen',
+        'link' =>
+            array (
+                '<a href="http://www.rheinspringen.ch/index.php?id=15">Motivationssemester rheinspringen bridges</a>',
+            ),
+    ),
+    '20171016' => array (
+        'icon' => '20171016_eule.jpg',
+        'date' =>  '16.-21.10.2017',
+        'title' => '«Die verbEULte Schulreise» TanzTheaterprojekt für Kinder und Jugendliche [V]',
+        'description' => 'Tanz- und Theaterprojekt für 8-15jährige Kinder und Jugendliche im Rahmen des Raiffeisen Ferienspass am See. Theaterpädagogische Leitung & Projektleitung in Zusammenarbeit mit Daniela Schläpfer (Tanz).<br>3 Öffentliche Aufführungen:<br>Freitag 20.10.2017, 18.00 Uhr / 19.30 Uhr;<br>Samstag 21.10.2017, 11.00 Uhr.<br>Eintritt frei, Kollekte.',
+        'place' => 'Projektraum Dufourstrasse 14, 9400 Rorschach',
+        'link' =>
+            array (
+                '<a href="http://www.theaterpaedagogik.ch/kurs/kursdetail.php?ids=4596">Machst du mit? Hier anmelden </a>',
+                '<a href="http://ferienspassamsee.ch">Raiffeisen Ferienspass am See</a>',
+                '<a href="http://www.danielatanzt.ch">Daniela Schläpfer</a>',
+            ),
+    ),
+    '20170807' => array (
+        'icon' => '20170807_labor_im_park.jpg',
+        'date' =>  '7.&11.8.2017',
+        'title' => '«Labor im Park» Atlantis-Kinderwoche Sommerplausch St. Gallen',
+        'description' => 'Theaterauftritt zur Eröffnung und zum Abschluss der Atlantis-Kinderwoche 2016 im Rahmen des Sommerplausch in der Stadt St. Gallen. In Zusammenarbeit mit Matthias Roth & Leiterteam von der Offenen Arbeit mit Kindern Zentrum, St. Gallen.',
+        'place' => 'Park beim Schulhaus Buchwald, St. Gallen',
+        'link' =>
+            array (
+                '<a href="http://www.stadt.sg.ch/home/gesellschaft-sicherheit/familie-kinder/familienpolitik/offene-arbeit-kinder.html">Offene Arbeit mit Kindern</a>',
+            ),
+    ),
+    '20170519' => array (
+        'icon' => '20170519_wasserwelt.jpg',
+        'date' =>  '19.5./16.6.2017',
+        'title' => '«WasserWelt» Spielabend für Primarschulkinder',
+        'description' => 'Theaterpädagogische Mitarbeit zusammen mit dem Team der Offenen Arbeit mit Kindern in der Stadt St. Gallen. ',
+        'place' => 'St. Galler Schulhäuser Buchwald (19.5.), Engelwies (16.6.)',
+        'link' =>
+            array (
+                '<a href="http://www.stadt.sg.ch/home/gesellschaft-sicherheit/familie-kinder/familienpolitik/offene-arbeit-kinder.html">OAK Offene Arbeit mit Kindern Stadt St. Gallen</a>',
             ),
     ),
     '20170504' => array (
