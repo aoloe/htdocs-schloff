@@ -13,6 +13,41 @@ $project = array(
             ),
     ),
     */
+    '20180702' => array (
+        'icon' => '20180702_fhsg.jpg',
+        'date' =>  '2.-5.7.2018',
+        'title' => '«Theater & Bewegung in der Kinder- und Jugendarbeit» Wahlpflichtmodul für Studierende der Sozialen Arbeit',
+        'description' => 'Konzept und Durchführung im Auftrag der Fachhochschule Soziale Arbeit in St. Gallen',
+        'place' => 'FHS St. Gallen, Hochschule für Angewandte Wissenschaften, Rosenbergstrasse 59, St. Gallen SG',
+        'link' =>
+            array (
+                '<a href="https://www.fhsg.ch/fhs.nsf/de/home">FHS St. Gallen, Hochschule für Angewandte Wissenschaften</a>',
+            ),
+    ),
+    '20180316' => array (
+        'icon' => '20180316_eswareinmal.jpg',
+        'date' =>  '16.3.2018',
+        'title' => '«Es war einmal...» Schultheatertage Ostschweiz',
+        'description' => 'Wer spielt, schaut zu – wer zuschaut, spielt: An den Schultheatertagen zeigen sich Ostschweizer Schulklassen (3. bis 9. Schuljahr) gegenseitig ihre selbstentwickelten Theaterstücke. Dabei tauschen sie sich mit Theaterschaffenden und anderen theaterbegeisterten Schülerinnen und Schülern aus. Die Schultheatertage Ostschweiz bieten die Chance, auf einer Theaterbühne aufzutreten und fördern die Freude am Schauspiel. Theaterpädagogische Begleitung einer Schulklasse & der Lehrperson im Auftrag der Schultheatertage Ostschweiz.<br>Geschlossene Aufführung',
+        'place' => 'Theaterhaus Thurgau, Weinfelden',
+        'link' =>
+            array (
+                '<a href="http://www.kklick.ch/sg/angebote/show/schultheatertage-ostschweiz-634/">Schultheatertage Ostschweiz 2018</a>',
+                '<a href="http://www.schuleteufen.ch/xml_3/internet/de/application/d488/f553.cfm">Sekundarschule Hörli Teufen</a>',
+                '<a href="http://www.theaterhausthurgau.ch/programm.php">Theaterhaus Thurgau, Weinfelden</a>',
+            ),
+    ),
+    '20180316b' => array (
+        'icon' => '20170519_wasserwelt.jpg',
+        'date' =>  '16.3. / 6.4.2018',
+        'title' => '«WasserWelt» Spielabend für Primarschulkinder',
+        'description' => 'Theaterpädagogische Mitarbeit zusammen mit dem Team der Offenen Arbeit mit Kindern in der Stadt St. Gallen. ',
+        'place' => 'St. Galler Schulhäuser St. Leonhard (16.3.) und Halden (6.4.)',
+        'link' =>
+            array (
+                '<a href="">OAK Offene Arbeit mit Kindern Stadt St. Gallen</a>',
+            ),
+    ),
     '20180503' => array (
         'icon' => '20180503_stell_dir_vor.jpg',
         'date' =>  '3./4.5.2018',
@@ -34,6 +69,18 @@ $project = array(
             array (
                 '<a href="https://www.unilu.ch/fakultaeten/tf/institute/religionspaedagogisches-institut-rpi/">Religionspädagogisches Institut (RPI) Luzern </a>',
                 '<a href="http://www.klosterbaldegg.ch/index.php?id=98">Bildungshaus Stella Matutina</a>',
+            ),
+    ),
+    '20171203' => array (
+        'icon' => '20171203_maerlitheater.jpg',
+        'date' =>  '3.12.2017',
+        'title' => 'Märlitheater: Kinder-Wettbewerb am Bummelsunntig Rorschach',
+        'description' => 'Am 3. Dezember ist es soweit: Der Weihnachts-Bummelsunntig lockt allerlei Leute & Märlifiguren aus nah und fern nach Rorschach. Das Märlitheater Rorschach sucht Kinder, die beim Märli-Stand vorbeikommen und mithelfen. Denn Wischel und Wuschel – die HeldInnen des nächsten Märlitheaters – haben ein Problem: Sie fürchten sich im Dunkeln! Wer hilft mit, ihre Angst zu vertreiben? Organisation & Spiel in Zusammenarbeit mit weiteren Mitgliedern des Märlitheater Rorschach',
+        'place' => 'Stand in der Innenstadt, 9400 Rorschach',
+        'link' =>
+            array (
+                '<a href="http://maerlitheater-rorschach.ch/projekte/">Märlitheater Rorschach</a>',
+                '<a href="https://www.bummelsunntig.ch/">Bummelsunntig</a>',
             ),
     ),
     '20171108' => array (
@@ -70,6 +117,9 @@ $project = array(
                 '<a href="http://www.theaterpaedagogik.ch/kurs/kursdetail.php?ids=4596">Machst du mit? Hier anmelden </a>',
                 '<a href="http://ferienspassamsee.ch">Raiffeisen Ferienspass am See</a>',
                 '<a href="http://www.danielatanzt.ch">Daniela Schläpfer</a>',
+                '<a href="http://www.tagblatt.ch/ostschweiz/stgallen/rorschach/schauspielkunst-als-ferienspass;art2889,5115564">Schauspielkunst als Ferienspass</a> (St. Galler Tagblatt, 18. Oktober 2017)',
+                '<a href="http://bn.zehnder.ch/eweb/bn/2017/10/26/bn/8/">Bilderbogen</a> (Bodensee Nachrichten, 26. Oktober 2017)',
+                '<a href="http://rorschacherecho.ch/2017/10/22/die-verbeulte-schulreise-lockte-150-zuschauerinnen-an/">Die verbeulte Schulreise lockte 150 ZuschauerInnen an</a> (Blog RorschacherEcho, 22. Oktober 2017)',
             ),
     ),
     '20170807' => array (
