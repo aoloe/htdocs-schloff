@@ -39,10 +39,10 @@ $project = array(
     ),
     '20180316b' => array (
         'icon' => '20170519_wasserwelt.jpg',
-        'date' =>  '16.3. / 6.4.2018',
+        'date' =>  '16.3.2018',
         'title' => '«WasserWelt» Spielabend für Primarschulkinder',
         'description' => 'Theaterpädagogische Mitarbeit zusammen mit dem Team der Offenen Arbeit mit Kindern in der Stadt St. Gallen. ',
-        'place' => 'St. Galler Schulhäuser St. Leonhard (16.3.) und Halden (6.4.)',
+        'place' => 'St. Galler Schulhäuser St. Leonhard',
         'link' =>
             array (
                 '<a href="">OAK Offene Arbeit mit Kindern Stadt St. Gallen</a>',
