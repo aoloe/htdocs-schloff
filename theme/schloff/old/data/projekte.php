@@ -13,6 +13,18 @@ $project = array(
             ),
     ),
     */
+    '20180706' => array (
+        'icon' => '20180206_varain.jpg',
+        'date' =>  '6.2. - 24.11.2018',
+        'title' => '«Apéro Riche – oder Wie wir die Welt verbessern», Regieassistenz Theaterprojekt',
+        'description' => 'Theaterprojekt des Vereins „VARAIN“ anlässlich des 100-Jahr-Jubiläums des Schweizerischen Generalstreiks von 1918, Regieassistenz im Auftrag des Vereins VARAIN in Zusammenarbeit mit Regisseurin Katja Langenbach & Crew.',
+        'place' => 'Goba Mineralquelle und Manufaktur Halle, Bühler AR ',
+        'link' =>
+            array (
+                '<a href="https://unternehmen.goba-welt.ch/service/besuche-kontakt/manufaktur-buehler/">Manufaktur Halle, Bühler</a>',
+                '<a href="https://theater-varain.ch/apero-riche/">Weitere Informationen</a>',
+            ),
+    ),
     '20180702' => array (
         'icon' => '20180702_fhsg.jpg',
         'date' =>  '2.-5.7.2018',
@@ -24,20 +36,18 @@ $project = array(
                 '<a href="https://www.fhsg.ch/fhs.nsf/de/home">FHS St. Gallen, Hochschule für Angewandte Wissenschaften</a>',
             ),
     ),
-    '20180316' => array (
-        'icon' => '20180316_eswareinmal.jpg',
-        'date' =>  '16.3.2018',
-        'title' => '«Es war einmal...» Schultheatertage Ostschweiz',
-        'description' => 'Wer spielt, schaut zu – wer zuschaut, spielt: An den Schultheatertagen zeigen sich Ostschweizer Schulklassen (3. bis 9. Schuljahr) gegenseitig ihre selbstentwickelten Theaterstücke. Dabei tauschen sie sich mit Theaterschaffenden und anderen theaterbegeisterten Schülerinnen und Schülern aus. Die Schultheatertage Ostschweiz bieten die Chance, auf einer Theaterbühne aufzutreten und fördern die Freude am Schauspiel. Theaterpädagogische Begleitung einer Schulklasse & der Lehrperson im Auftrag der Schultheatertage Ostschweiz.<br>Geschlossene Aufführung',
-        'place' => 'Theaterhaus Thurgau, Weinfelden',
+    '20180503' => array (
+        'icon' => '20180503_stell_dir_vor.jpg',
+        'date' =>  '3./4.5.2018',
+        'title' => '«Stell\' dir vor du stellst dich vor» Vorstellungsgespräche-Workshops für OberstufenschülerInnen',
+        'description' => 'Theaterpädagogische Workshops mit Bewerbungs-Gespräch-Training. Konzept und Durchführung im Rahmen der Bewerbungstage im Auftrag der Oberstufe Rorschach.',
+        'place' => 'Schulhaus Kreuzacker, Rorschach SG',
         'link' =>
             array (
-                '<a href="http://www.kklick.ch/sg/angebote/show/schultheatertage-ostschweiz-634/">Schultheatertage Ostschweiz 2018</a>',
-                '<a href="http://www.schuleteufen.ch/xml_3/internet/de/application/d488/f553.cfm">Sekundarschule Hörli Teufen</a>',
-                '<a href="http://www.theaterhausthurgau.ch/programm.php">Theaterhaus Thurgau, Weinfelden</a>',
+                '<a href="http://www.rorschach.ch/schule/portrait-oberstufe">Oberstufe Rorschach</a>',
             ),
     ),
-    '20180316b' => array (
+    '20180316' => array (
         'icon' => '20170519_wasserwelt.jpg',
         'date' =>  '16.3.2018',
         'title' => '«WasserWelt» Spielabend für Primarschulkinder',
@@ -48,15 +58,17 @@ $project = array(
                 '<a href="">OAK Offene Arbeit mit Kindern Stadt St. Gallen</a>',
             ),
     ),
-    '20180503' => array (
-        'icon' => '20180503_stell_dir_vor.jpg',
-        'date' =>  '3./4.5.2018',
-        'title' => '«Stell\' dir vor du stellst dich vor» Vorstellungsgespräche-Workshops für OberstufenschülerInnen',
-        'description' => 'Theaterpädagogische Workshops mit Bewerbungs-Gespräch-Training. Konzept und Durchführung im Rahmen der Bewerbungstage im Auftrag der Oberstufe Rorschach.',
-        'place' => 'Schulhaus Kreuzacker, Rorschach SG',
+    '20180316b' => array (
+        'icon' => '20180316_eswareinmal.jpg',
+        'date' =>  '15.3.2018',
+        'title' => '«Es war einmal...» Schultheatertage Ostschweiz',
+        'description' => 'Wer spielt, schaut zu – wer zuschaut, spielt: An den Schultheatertagen zeigen sich Ostschweizer Schulklassen (3. bis 9. Schuljahr) gegenseitig ihre selbstentwickelten Theaterstücke. Dabei tauschen sie sich mit Theaterschaffenden und anderen theaterbegeisterten Schülerinnen und Schülern aus. Die Schultheatertage Ostschweiz bieten die Chance, auf einer Theaterbühne aufzutreten und fördern die Freude am Schauspiel. Theaterpädagogische Begleitung einer Schulklasse & der Lehrperson im Auftrag der Schultheatertage Ostschweiz.<br>Geschlossene Aufführung',
+        'place' => 'Theaterhaus Thurgau, Weinfelden',
         'link' =>
             array (
-                '<a href="http://www.rorschach.ch/schule/portrait-oberstufe">Oberstufe Rorschach</a>',
+                '<a href="http://www.kklick.ch/sg/angebote/show/schultheatertage-ostschweiz-634/">Schultheatertage Ostschweiz 2018</a>',
+                '<a href="http://www.schuleteufen.ch/xml_3/internet/de/application/d488/f553.cfm">Sekundarschule Hörli Teufen</a>',
+                '<a href="http://www.theaterhausthurgau.ch/programm.php">Theaterhaus Thurgau, Weinfelden</a>',
             ),
     ),
     '20180130' => array (
