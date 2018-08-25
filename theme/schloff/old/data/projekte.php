@@ -13,6 +13,29 @@ $project = array(
             ),
     ),
     */
+    '20181008' => array (
+        'icon' => '20181008_rundum.jpg',
+        'date' =>  '8.-12.10.2018',
+        'title' => '«Rundum» TanzTheaterprojekt für Kinder und Jugendliche [V]',
+        'description' => 'Tanz- und Theaterprojekt für 8-15jährige Kinder und Jugendliche im Rahmen des Raiffeisen Ferienspass am See. Projektleitung & Theaterpädagogische Leitung in Zusammenarbeit mit Daniela Schläpfer (Tanz).<br>Zwei Öffentliche Aufführungen:<br> Freitag 12.10.2018, 18.00 Uhr / 19.30 Uhr;<br> Eintritt frei, Kollekte.',
+        'place' => 'Projektraum Dufourstrasse 14, 9400 Rorschach',
+        'link' =>
+            array (
+                '<a href="http://www.theaterpaedagogik.ch/kurs/kursdetail.php?ids=5023">Weitere Informationen & Anmeldung</a>',
+                '<a href="http://ferienspassamsee.ch">Raiffeisen Ferienspass am See</a>',
+                '<a href="http://www.danielatanzt.ch">Daniela Schläpfer</a>',
+            ),
+    ),
+    '20180806' => array (
+        'icon' => '20180806_insel.jpg',
+        'date' =>  '6./10.8.2018',
+        'title' => '«Verlorene Insel» Atlantis-Kinderwoche Sommerplausch St. Gallen',
+        'description' => 'Theaterauftritt als Piti das Fantasietier zur Eröffnung und zum Abschluss der Atlantis-Kinderwoche 2018 im Rahmen des Sommerplausch in der Stadt St. Gallen. In Zusammenarbeit mit Matthias Roth & Leiterteam von der Offenen Arbeit mit Kindern, Kinder Jugend Familie, St. Gallen.',
+        'place' => 'Park beim Schulhaus Buchwald, St. Gallen',
+        'link' =>
+            array (
+            ),
+    ),
     '20180706' => array (
         'icon' => '20180206_varain.jpg',
         'date' =>  '6.2. - 24.11.2018',
