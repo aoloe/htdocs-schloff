@@ -45,7 +45,7 @@ $project = array(
         'link' =>
             array (
                 '<a href="https://unternehmen.goba-welt.ch/service/besuche-kontakt/manufaktur-buehler/">Manufaktur Halle, Bühler</a>',
-                '<a href="https://theater-varain.ch/apero-riche/">Weitere Informationen</a>',
+                '<a href="https://theater-varain.ch/inhalt/">Weitere Informationen</a>',
             ),
     ),
     '20180702' => array (
